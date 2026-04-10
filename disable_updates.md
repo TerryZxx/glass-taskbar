@@ -1,4 +1,4 @@
-# Disable Updates
+# 恢复系统更新
 
 **没越狱用户**
 
